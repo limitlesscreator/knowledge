@@ -3,20 +3,20 @@ body{
 }
 .question{
   text-align: center;
-  color: #e7e7e7;
+  color: #00ff8a;
   font-size: 20px;
-  border-bottom: solid 3px #e7e7e7;
-  padding-bottom: 20px;
-  margin-top: 30px;
 }
 .answer{
+  margin-top: 10px;
   text-align: center;
   color: #e7e7e7;
   font-size: 20px;
-  border-bottom: solid 3px #e7e7e7;
-  padding-bottom: 20px;
-  margin-top: 30px;
 }
-.margin{
-  margin-bottom: 100px;
+
+
+.title{
+  border: solid 3px #e7e7e7;
+  padding: 10px 40px;
+  margin: 10px auto;
+  background: #000;
 }
